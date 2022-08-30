@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DGE data
+220817COVID19MEXICO.tar.gz
